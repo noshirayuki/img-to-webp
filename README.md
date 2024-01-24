@@ -17,3 +17,7 @@ Extensions:
     TIFF (.tiff, .tif)
     ICO (.ico)
     WebP (.webp) - Tool supports WebP as both input and output.
+
+Python program. Requires Pillow to be installed:
+
+    pip install Pillow
